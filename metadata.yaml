@@ -1,5 +1,8 @@
 _repo: Letters-to-His-Children_6467
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roosevelt, Theodore
@@ -23,6 +26,8 @@ description: The letters included in this volume were written by Theodore Roosev
   he was separated from them--in the Spanish War, or on a hunting trip, or because
   they were at school--he sent his children these messages of constant thought and
   love, for they were never for a moment out of his mind and heart.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6467#Letters-to-His-Children
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-04-22'
 gutenberg_type: Text
